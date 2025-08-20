@@ -18,6 +18,8 @@ __pycache__/
 .idea/
 .vscode/
 
+test.py
+
 
 *.log
 *.coverage
